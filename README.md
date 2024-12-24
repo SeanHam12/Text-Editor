@@ -1,2 +1,0 @@
-# Text-Editor
-In java
